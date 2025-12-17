@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="myimage">
+    <file>logo.jpg</file>
+    <file>fan_off.png</file>
+    <file>fan_on.png</file>
+    <file>oven_off.png</file>
+    <file>oven_on.png</file>
+    <file>lamp_off.png</file>
+    <file>lamp_on.png</file>
+  </qresource>
+</RCC>
